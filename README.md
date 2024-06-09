@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @keerthan9453
-- 👀 I’m interested in pentesting 
-- 🌱 I’m currently learning ccna and linux 
-- 💞️ I’m looking to collaborate on pentesting and backend security 
-- 📫 How to reach me ...
+Hi there! I'm a passionate front end developer with a knack for creating engaging and user-friendly web applications. My expertise lies in HTML, CSS, vanilla JavaScript, and React. I'm currently expanding my skills into backend development with Node.js and Java.
 
-<!---
-keerthan9453/keerthan9453 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthan9453)](https://github.com/anuraghazra/github-readme-stats)
